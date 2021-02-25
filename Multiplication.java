@@ -6,7 +6,7 @@ public class Multiplication {
 		// TODO Auto-generated method stub
 		int a[][]={{1,10,8},{2,2,9},{1,3,9}};    
 		int b[][]={{1,0,5},{6,3,5},{3,4,3}};    
-		    System.out.println("changes");
+		    System.out.println("change two");
 		    
 		int c[][]=new int[3][3];  
 		       
